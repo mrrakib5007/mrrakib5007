@@ -15,12 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mrrakib5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrrakib5007" height="30" width="40" /></a>
-<a href="https://dev.to/mrrakib5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrrakib5007" height="30" width="40" /></a>
 <a href="https://twitter.com/mrrakib5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrrakib5007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrrakib5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrrakib5007" height="30" width="40" /></a>
 <a href="https://fb.com/mrrakib5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrrakib5007" height="30" width="40" /></a>
-<a href="https://instagram.com/mrrakib5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrrakib5007" height="30" width="40" /></a>
+<a href="https://instagram.com/mrrakib50071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrrakib5007" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrrakib5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrrakib5007" height="30" width="40" /></a>
 </p>
 
