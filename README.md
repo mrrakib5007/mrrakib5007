@@ -1,147 +1,107 @@
-<!-- AUTHOR: Mahabub Rahman Rakib -->
-<!-- PROFILE TYPE: Developer CV Dashboard -->
+# Hi there, I'm Rakib! 👋 
+### Senior MERN Stack Developer | Building Scalable Full-Stack Solutions
 
-<div align="center">
-  <!-- Header Title -->
-  <h1>📄 Mahabub Rahman Rakib | Executive Profile & CV</h1>
-  
-  <!-- Premium Hero Animation (800x600) -->
-  <img src="https://i.ibb.co/B5gLBM6y/mrrakib5007.gif" width="800" height="600" alt="Mahabub Rahman Rakib - Professional Workspace" style="border-radius: 8px; margin-bottom: 20px;" />
-
-  <!-- Action Badges -->
-  <p>
-    <a href="https://mrrakib5007.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-mrrakib5007.netlify.app-0078d4?style=for-the-badge" alt="Portfolio" />
-    </a>
-    <a href="https://drive.google.com/file/d/1x_sTSrap8HjLtzauUlps2PvrYvHThLog/view" target="_blank">
-      <img src="https://img.shields.io/badge/📥_Download_Full_CV-Google_Drive-success?style=for-the-badge" alt="Download CV" />
-    </a>
-  </p>
-</div>
-
-<hr />
-
-<!-- Executive Summary Section -->
-<h2>👤 Executive Summary</h2>
-<p>
-  I am a passionate <strong>MERN Stack Web Developer</strong> with hands-on experience building dynamic, fully responsive, and highly optimized web applications. Focused on producing clean architectural designs, fluid user experiences, and innovative full-stack solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Expert;Next.js+%2B+TypeScript+Enthusiast;Building+High-Performance+Web+Apps;Open+For+Remote+Work+%26+Freelancing" alt="Typing SVG" />
 </p>
 
-<hr />
+---
 
-<!-- Skills & Proficiency Section -->
-<h2>🛠️ Core Competencies & Language Proficiency</h2>
+## 💫 About Me
 
-<h4>Frontend & Design Technologies</h4>
-<pre>
-HTML5 / CSS3     ██████████████████████████████████████████ 95%
-Tailwind CSS     ████████████████████████████████████████   90%
-JavaScript (ES6+)████████████████████████████████████████   90%
-React.js / Router██████████████████████████████████████     85%
-Bootstrap        ██████████████████████████████████        80%
-</pre>
+I am a passionate **Senior MERN Stack Developer** dedicated to crafting scalable, responsive, and high-performance web applications. With a deep understanding of the JavaScript ecosystem, I focus on turning complex problems into elegant, clean, and maintainable code. Whether it's designing robust RESTful APIs or architecting fluid user interfaces, I build with performance and security in mind.
 
-<h4>Backend, Databases & Cloud Infrastructure</h4>
-<pre>
-Node.js          ██████████████████████████████████████     85%
-Express.js       ██████████████████████████████████████     85%
-MongoDB          ██████████████████████████████████        80%
-AWS              ████████████████████████████████          75%
-Git & GitHub     ████████████████████████████████████████   90%
-</pre>
+*   🔭 **Current Focus:** Advanced full-stack architecture with Next.js, TypeScript, and microservices.
+*   💡 **Philosophy:** *"Clean code always looks like it was written by someone who cares."* — Michael Feathers
+*   🌱 **Always Learning:** Exploring advanced DevOps workflows and cloud-native architectures.
+*   💬 **Ask Me About:** React performance optimization, state management, and database indexing.
+*   ⚡ **Fun Fact:** When I'm not coding, I'm analyzing sleek UI designs or tinkering with automation bots.
 
-<hr />
+---
 
-<!-- Work Experience Section -->
-<h2>💼 Professional Work History</h2>
+## 🛠️ Tech Stack & Skills
 
-<div>
-  <h3>🔹 Junior Web Developer (MERN) | <strong>IT Lancer BD</strong></h3>
-  <p><em>📅 2025 - Present</em></p>
-  <ul>
-    <li>Engineered robust web applications utilizing MongoDB, Express, React, and Node.js.</li>
-    <li>Implemented modern coding practices and integrated UI elements based on rigid product specs.</li>
-  </ul>
-</div>
-
-<br />
-
-<div>
-  <h3>🔹 Full Stack Developer | <strong>Freelance / Online</strong></h3>
-  <p><em>📅 2023 - 2025</em></p>
-  <ul>
-    <li>Designed, developed, and deployed several tailored client-facing web applications using the MERN stack.</li>
-    <li>Partnered directly with UI/UX engineers to deploy fluid web layouts optimized for absolute responsiveness.</li>
-  </ul>
-</div>
-
-<hr />
-
-<!-- Projects Section -->
-<h2>🚀 Highlighted Projects</h2>
-
-<ul>
-  <li>
-    <strong>📁 E-Commerce Platform</strong><br />
-    <em>Description:</em> A premium full-stack marketplace equipped with authentication systems, checkout/payment gateways, and an analytical administrative control dashboard.<br />
-    <em>Stack:</em> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>Express.js</code>
-  </li>
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <br />
-  <li>
-    <strong>📁 Social Media Application</strong><br />
-    <em>Description:</em> Real-time social platform featuring persistent live-chat rooms, user verification channels, and instant file sharing.<br />
-    <em>Stack:</em> <code>React</code>, <code>Socket.io</code>, <code>Express.js</code>, <code>MongoDB</code>
-  </li>
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <br />
-  <li>
-    <strong>📁 Task Management System</strong><br />
-    <em>Description:</em> Project workflow tool featuring fully integrated Kanban drag-and-drop boards and collaborative enterprise team management workspaces.<br />
-    <em>Stack:</em> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>
-  </li>
-</ul>
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<hr />
+### 💻 Deep Dive Breakdown
 
-<!-- GitHub Analytics Section -->
-<h2>📈 GitHub Analytics</h2>
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mrrakib5007&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrakib5007&layout=compact&theme=dark&hide_border=true" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, Redux Toolkit |
+| **Backend** | Node.js, Express.js, RESTful APIs, MVC Architecture, WebSockets |
+| **Database** | MongoDB (Mongoose), Aggregation Framework, Firebase Firestore |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, Postman, Nginx |
+| **Deployment** | Vercel, Netlify, Render, DigitalOcean, AWS |
 
-<hr />
+---
 
-<!-- Contact Section -->
-<h2>📬 Contact & Channel Information</h2>
-<p>Looking for a personal developer to launch or maintain your system architecture? Let’s talk layout design or custom workflows:</p>
+## 📈 GitHub Analytics
 
-<ul>
-  <li>📍 <strong>Location:</strong> Lakshmipur, Bangladesh</li>
-  <li>📧 <strong>Email:</strong> <a href="mailto:mrrakib5007@gmail.com">mrrakib5007@gmail.com</a></li>
-  <li>📞 <strong>Phone:</strong> +880 1991-465007</li>
-</ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rakib's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Rakib's GitHub Streak" height="180px" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+</p>
 
-<div align="left">
-  <a href="https://bd.linkedin.com/in/mrrakib5007" target="_blank">
+### 📅 Contribution Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=1a1b27&hide_border=true)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ ProCommerce – Enterprise E-Commerce Ecosystem
+> A full-scale, multi-vendor e-commerce platform built for maximum throughput and seamless user experience.
+*   **Tech Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Node.js, MongoDB, Stripe.
+*   **Key Features:** Real-time inventory tracking, complex MongoDB aggregation pipelines for business analytics, dashboard UI, and secure payment split gateway integration.
+*   🔗 [Live Demo](https://github.com/YOUR_GITHUB_USERNAME) | [Source Code](https://github.com/YOUR_GITHUB_USERNAME)
+
+### 💬 NexaChat – Real-Time Collaboration Suite
+> A production-ready workspace management and chat application designed to scale horizontally.
+*   **Tech Stack:** React.js, Tailwind CSS, Express.js, Socket.io, Redis, MongoDB.
+*   **Key Features:** Instant messaging with sub-millisecond latency via WebSockets, Redis pub/sub layer for scaling concurrent connections, and binary file-sharing pipelines.
+*   🔗 [Live Demo](https://github.com/YOUR_GITHUB_USERNAME) | [Source Code](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+## 🤝 Connect With Me
+
+Let's discuss your next project, remote positions, or just talk tech! 
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/mrrakib5007" target="_blank">
+  <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.facebook.com/mrrakib5007" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/mrrakib5007" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</div>
+</p>
+
+---
+<p align="center">⭐️ Built with passion. Feel free to star my repositories if you find my work helpful!</p>
