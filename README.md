@@ -1,5 +1,5 @@
 # Hi there, I'm Rakib! 👋 
-### Senior MERN Stack Developer | Building Scalable Full-Stack Solutions
+### MERN Stack Developer | Building Scalable Full-Stack Solutions
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Expert;Next.js+%2B+TypeScript+Enthusiast;Building+High-Performance+Web+Apps;Open+For+Remote+Work+%26+Freelancing" alt="Typing SVG" />
