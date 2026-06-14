@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-I am a passionate **Senior MERN Stack Developer** dedicated to crafting scalable, responsive, and high-performance web applications. With a deep understanding of the JavaScript ecosystem, I focus on turning complex problems into elegant, clean, and maintainable code. Whether it's designing robust RESTful APIs or architecting fluid user interfaces, I build with performance and security in mind.
+I am a passionate ** MERN Stack Developer** dedicated to crafting scalable, responsive, and high-performance web applications. With a deep understanding of the JavaScript ecosystem, I focus on turning complex problems into elegant, clean, and maintainable code. Whether it's designing robust RESTful APIs or architecting fluid user interfaces, I build with performance and security in mind.
 
 *   🔭 **Current Focus:** Advanced full-stack architecture with Next.js, TypeScript, and microservices.
 *   💡 **Philosophy:** *"Clean code always looks like it was written by someone who cares."* — Michael Feathers
