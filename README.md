@@ -55,16 +55,16 @@ I am a passionate **Senior MERN Stack Developer** dedicated to crafting scalable
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rakib's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Rakib's GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrakib5007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rakib's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrakib5007&theme=tokyonight&hide_border=true" alt="Rakib's GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrakib5007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 ### 📅 Contribution Activity
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=1a1b27&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=mrrakib5007&theme=tokyonight&bg_color=1a1b27&hide_border=true)
 
 ---
 
@@ -74,13 +74,13 @@ I am a passionate **Senior MERN Stack Developer** dedicated to crafting scalable
 > A full-scale, multi-vendor e-commerce platform built for maximum throughput and seamless user experience.
 *   **Tech Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Node.js, MongoDB, Stripe.
 *   **Key Features:** Real-time inventory tracking, complex MongoDB aggregation pipelines for business analytics, dashboard UI, and secure payment split gateway integration.
-*   🔗 [Live Demo](https://github.com/YOUR_GITHUB_USERNAME) | [Source Code](https://github.com/YOUR_GITHUB_USERNAME)
+*   🔗 [Live Demo](https://github.com/mrrakib5007) | [Source Code](https://github.com/mrrakib5007)
 
 ### 💬 NexaChat – Real-Time Collaboration Suite
 > A production-ready workspace management and chat application designed to scale horizontally.
 *   **Tech Stack:** React.js, Tailwind CSS, Express.js, Socket.io, Redis, MongoDB.
 *   **Key Features:** Instant messaging with sub-millisecond latency via WebSockets, Redis pub/sub layer for scaling concurrent connections, and binary file-sharing pipelines.
-*   🔗 [Live Demo](https://github.com/YOUR_GITHUB_USERNAME) | [Source Code](https://github.com/YOUR_GITHUB_USERNAME)
+*   🔗 [Live Demo](https://github.com/mrrakib5007) | [Source Code](https://github.com/mrrakib5007)
 
 ---
 
