@@ -1,5 +1,5 @@
 # Hi there, I'm Rakib! 👋 
-### MERN Stack Developer | Building Scalable Full-Stack Solutions
+### Senior MERN Stack Developer | Building Scalable Full-Stack Solutions
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Expert;Next.js+%2B+TypeScript+Enthusiast;Building+High-Performance+Web+Apps;Open+For+Remote+Work+%26+Freelancing" alt="Typing SVG" />
@@ -52,6 +52,47 @@ I am a passionate **Senior MERN Stack Developer** dedicated to crafting scalable
 
 ---
 
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ ProCommerce Ecosystem</h3>
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=500&auto=format&fit=crop" alt="E-Commerce Ecosystem" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
+      </p>
+      <p>A full-scale, multi-vendor e-commerce platform built for maximum throughput, rich filtering, and lightning-fast checkout experiences.</p>
+      <p>
+        <strong>Tech Stack:</strong> 
+        <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Node.js</code> <code>MongoDB</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/mrrakib5007">🔗 Live Demo</a> &nbsp;|&nbsp; 
+        <a href="https://github.com/mrrakib5007">💻 Source Code</a>
+      </p>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3 align="center">💬 NexaChat Workspace</h3>
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?q=80&w=500&auto=format&fit=crop" alt="Real-Time Chat Workspace" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
+      </p>
+      <p>A production-ready workspace management suite featuring lightning-fast real-time chat, file pipelines, and horizontal scaling capabilities.</p>
+      <p>
+        <strong>Tech Stack:</strong> 
+        <code>React.js</code> <code>Tailwind</code> <code>Express.js</code> <code>Socket.io</code> <code>Redis</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/mrrakib5007">🔗 Live Demo</a> &nbsp;|&nbsp; 
+        <a href="https://github.com/mrrakib5007">💻 Source Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -65,22 +106,6 @@ I am a passionate **Senior MERN Stack Developer** dedicated to crafting scalable
 
 ### 📅 Contribution Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mrrakib5007&theme=tokyonight&bg_color=1a1b27&hide_border=true)
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ ProCommerce – Enterprise E-Commerce Ecosystem
-> A full-scale, multi-vendor e-commerce platform built for maximum throughput and seamless user experience.
-*   **Tech Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Node.js, MongoDB, Stripe.
-*   **Key Features:** Real-time inventory tracking, complex MongoDB aggregation pipelines for business analytics, dashboard UI, and secure payment split gateway integration.
-*   🔗 [Live Demo](https://github.com/mrrakib5007) | [Source Code](https://github.com/mrrakib5007)
-
-### 💬 NexaChat – Real-Time Collaboration Suite
-> A production-ready workspace management and chat application designed to scale horizontally.
-*   **Tech Stack:** React.js, Tailwind CSS, Express.js, Socket.io, Redis, MongoDB.
-*   **Key Features:** Instant messaging with sub-millisecond latency via WebSockets, Redis pub/sub layer for scaling concurrent connections, and binary file-sharing pipelines.
-*   🔗 [Live Demo](https://github.com/mrrakib5007) | [Source Code](https://github.com/mrrakib5007)
 
 ---
 
