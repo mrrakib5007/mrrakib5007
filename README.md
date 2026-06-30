@@ -21,7 +21,7 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 
 ---
 
-## Tech Stack & Skills
+## Skills
 
 <p align="left">
   <!-- Frontend -->
@@ -41,16 +41,6 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
-### System Architectural Breakdown
-
-| Layer | Core Competencies |
-| :--- | :--- |
-| **Frontend Engineering** | React.js, Next.js (App Router), TypeScript, Tailwind CSS, Redux Toolkit, Context API |
-| **Backend & APIs** | Node.js, Express.js, RESTful API design, MVC Architecture, WebSockets, Real-time streams |
-| **Database Systems** | MongoDB (Mongoose profiling), Aggregation Pipelines, Firebase Firestore indexing |
-| **DevOps & Tools** | Docker containerization, Git version control, GitHub Actions, Postman API testing, Nginx |
-| **Cloud Deployment** | Vercel, Netlify, Render, DigitalOcean, AWS environments |
 
 ---
 
