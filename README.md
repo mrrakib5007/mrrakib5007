@@ -1,5 +1,5 @@
-# Hi, I'm Mahabub Rahman Rakib
-### MERN Stack Developer
+# Hi, I'm Mahabub Rahman Rakib 👋
+### Full-Stack MERN & Next.js Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrrakib5007&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -101,15 +101,45 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
       </p>
     </td>
   </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h3 align="center">DevPulse Dashboard</h3>
+      <p align="center">
+        <img src="https://i.ibb.co/nqGMWnJ7/imgbb-snap-by-mrrakib5007.png" alt="Analytics Dashboard" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
+      </p>
+      <p>An interactive data analytics platform providing developers real-time insights into production telemetry, tracking errors, server loads, and deployment automation pipelines.</p>
+      <p>
+        <strong>Tech Stack:</strong> 
+        <code>Next.js</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>D3.js</code> <code>Express.js</code>
+      </p>
+      <p align="center">
+        <a href="https://mrrakib5007.netlify.app/">Live Demo</a> &nbsp;|&nbsp; 
+        <a href="https://github.com/mrrakib5007">Source Code</a>
+      </p>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h3 align="center">TaskFlow Engine</h3>
+      <p align="center">
+        <img src="https://i.ibb.co/nqGMWnJ7/imgbb-snap-by-mrrakib5007.png" alt="Task Automation System" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
+      </p>
+      <p>An automated cron scheduling management tool built to run heavy structural automation tasks, background routines, and immediate API notification alerts securely.</p>
+      <p>
+        <strong>Tech Stack:</strong> 
+        <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Redis</code> <code>Cloudinary</code>
+      </p>
+      <p align="center">
+        <a href="https://mrrakib5007.netlify.app/">Live Demo</a> &nbsp;|&nbsp; 
+        <a href="https://github.com/mrrakib5007">Source Code</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## GitHub Performance & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrrakib5007&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+## GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrakib5007&theme=tokyonight&hide_border=true" alt="Rakib's GitHub Streak" height="180px" />
