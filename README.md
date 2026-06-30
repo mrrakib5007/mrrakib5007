@@ -157,7 +157,7 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 ## Connect & Collaborate
 
 <p align="center">
-  <h3 align="center" style="font-size: 1.5em; margin-bottom: 8px;">Looking for a Personal Web Developer?</h3>
+  <h3 align="center" style="font-size: 1.5em; margin-bottom: 5px;">Looking for a Personal Web Developer?</h3>
   Are you on the lookout for someone who can design and manage your website? Or maybe you are looking for someone who can help you with the concept of your Business website design? You got your freelancer! I work personally and friendly.
 </p>
 
