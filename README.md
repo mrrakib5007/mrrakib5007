@@ -123,20 +123,23 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 
 ## Connect & Collaborate
 
-Are you looking for a reliable software engineer to construct a high-converting web application, step in as a remote team player, or talk system architecture? Let's start a conversation!
+<p align="center">
+  <strong>Looking for a Personal Web Developer?</strong><br>
+  Are you on the lookout for someone who can design and manage your website? Or maybe you are looking for someone who can help you with the concept of your Business website design? You got your freelancer! I work personally and friendly.
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/mrrakib5007" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 5px;" />
   </a>
   <a href="https://mrrakib5007.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Link.svg" alt="Portfolio" width="40" height="40" style="margin: 0 5px;" />
   </a>
   <a href="mailto:mrrakib5007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="40" height="40" style="margin: 0 5px;" />
   </a>
   <a href="https://x.com/mrrakib5007" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 5px;" />
   </a>
 </p>
 
