@@ -1,5 +1,5 @@
-# Hi, I'm Mahabub Rahman Rakib 👋
-### Full-Stack MERN & Next.js Developer
+# Hi, I'm Mahabub Rahman Rakib
+### MERN Stack Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrrakib5007&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -153,7 +153,7 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 ## Connect & Collaborate
 
 <p align="center">
-  <strong>Looking for a Personal Web Developer?</strong><br>
+  <h3<strong>Looking for a Personal Web Developer?</strong></h3><br>
   Are you on the lookout for someone who can design and manage your website? Or maybe you are looking for someone who can help you with the concept of your Business website design? You got your freelancer! I work personally and friendly.
 </p>
 
