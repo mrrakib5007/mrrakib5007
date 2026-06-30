@@ -1,5 +1,6 @@
 # Hi, I'm Mahabub Rahman Rakib 
 ### Full-Stack MERN & Next.js Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrakib5007&label=Profile views&color=0e75b6&style=flat" alt="mrrakib5007" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Architect;Next.js+%2B+TypeScript+Expert;Building+High-Performance+Web+Apps;Available+For+Remote+Work+%26+Freelancing" alt="Typing SVG" />
@@ -14,7 +15,7 @@ I'm a passionate MERN stack developer with over 2 years of experience building d
 When I’m not coding, I enjoy exploring new technologies and contributing to open source projects. I believe in continuous learning and staying up to date with industry trends.
 
 -  **Current Focus:** Advanced full-stack systems engineering with Next.js, TypeScript, and Docker containerization.
--  **Philosophy:** *"Clean code always looks like it was written by someone who cares."* — Michael Feathers
+-  **Philosophy:** *"Clean code always looks like it was written by someone who cares."* - Michael Feathers
 -  **Always Innovating:** Integrating automated pipelines, DevOps workflows, and cloud-native solutions to speed up production delivery.
 -  **Expertise:** React performance optimization, state management structures, and complex database aggregation workflows.
 
