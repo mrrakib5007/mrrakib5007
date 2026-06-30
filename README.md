@@ -1,4 +1,4 @@
-# Hi, I'm Mahabub Rahman Rakib
+# Hi, I'm Mahabub Rahman Rakib 👋
 ### Full-Stack MERN & Next.js Developer
 
 <p align="left">
@@ -105,15 +105,16 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 
 ---
 
-## GitHub Metrics
+## GitHub Performance & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api?username=mrrakib5007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rakib's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrakib5007&theme=tokyonight&hide_border=true" alt="Rakib's GitHub Streak" height="180px" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrrakib5007&theme=tokyonight&column=7&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=mrrakib5007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrakib5007&theme=tokyonight&hide_border=true" alt="Rakib's GitHub Streak" height="180px" />
 </p>
 
 ### Contribution Heatmap
