@@ -59,7 +59,7 @@ I am a results-driven **Full-Stack Developer** specializing in the JavaScript ec
     <td width="50%" valign="top">
       <h3 align="center">🛍️ ProCommerce Ecosystem</h3>
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=500&auto=format&fit=crop" alt="E-Commerce Ecosystem" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
+        <img src="https://i.ibb.co/nqGMWnJ7/imgbb-snap-by-mrrakib5007.png" alt="E-Commerce Ecosystem" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
       </p>
       <p>A full-scale, multi-vendor e-commerce platform engineered for maximum request throughput, rich multi-tier filtering, secure custom payment pipes, and lightning-fast web performance metrics.</p>
       <p>
@@ -75,7 +75,7 @@ I am a results-driven **Full-Stack Developer** specializing in the JavaScript ec
     <td width="50%" valign="top">
       <h3 align="center">💬 NexaChat Workspace</h3>
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?q=80&w=500&auto=format&fit=crop" alt="Real-Time Chat Workspace" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
+        <img src="https://i.ibb.co/nqGMWnJ7/imgbb-snap-by-mrrakib5007.png" alt="Real-Time Chat Workspace" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
       </p>
       <p>A production-ready team collaboration workspace suite featuring real-time bi-directional chat communication, instant asset upload pipelines, and clean state syncing capabilities.</p>
       <p>
