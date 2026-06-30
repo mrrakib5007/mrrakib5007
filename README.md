@@ -1,4 +1,4 @@
-# Hi, I'm Mahabub Rahman Rakib 👋
+# Hi, I'm Mahabub Rahman Rakib
 ### Full-Stack MERN & Next.js Developer
 
 <p align="left">
@@ -108,12 +108,12 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrakib5007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rakib's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-two.vercel.app/api?username=mrrakib5007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rakib's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrakib5007&theme=tokyonight&hide_border=true" alt="Rakib's GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrakib5007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=mrrakib5007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 ### Contribution Heatmap
@@ -130,16 +130,16 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 
 <p align="center">
   <a href="https://linkedin.com/in/mrrakib5007" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 5px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://mrrakib5007.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Link.svg" alt="Portfolio" width="40" height="40" style="margin: 0 5px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="Portfolio" width="40" height="40" style="margin: 0 10px;" />
   </a>
   <a href="mailto:mrrakib5007@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="40" height="40" style="margin: 0 5px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="40" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://x.com/mrrakib5007" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 5px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 10px;" />
   </a>
 </p>
 
