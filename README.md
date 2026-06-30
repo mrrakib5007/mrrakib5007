@@ -1,4 +1,4 @@
-# Hi, I'm Mahabub Rahman Rakib
+# Hi, I'm Mahabub Rahman Rakib 
 ### MERN Stack Developer
 
 <p align="left">
@@ -101,6 +101,10 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
       </p>
     </td>
   </tr>
+  
+  <!-- Vertical Spacing Margin Row -->
+  <tr><td colspan="2" height="35"></td></tr>
+
   <tr>
     <!-- Project 3 -->
     <td width="50%" valign="top">
@@ -153,22 +157,24 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 ## Connect & Collaborate
 
 <p align="center">
-  <h3><strong>Looking for a Personal Web Developer?</strong></h3><br>
+  <h3 align="center" style="font-size: 1.5em; margin-bottom: 8px;">Looking for a Personal Web Developer?</h3>
   Are you on the lookout for someone who can design and manage your website? Or maybe you are looking for someone who can help you with the concept of your Business website design? You got your freelancer! I work personally and friendly.
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://linkedin.com/in/mrrakib5007" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 12px;" />
   </a>
   <a href="https://mrrakib5007.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="Portfolio" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="Portfolio" width="40" height="40" style="margin: 0 12px;" />
   </a>
   <a href="mailto:mrrakib5007@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="40" height="40" style="margin: 0 12px;" />
   </a>
   <a href="https://x.com/mrrakib5007" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 12px;" />
   </a>
 </p>
 
