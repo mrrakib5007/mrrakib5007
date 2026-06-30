@@ -9,7 +9,9 @@
 
 ## 💫 About Me
 
-I am a results-driven **Full-Stack Developer** specializing in the JavaScript ecosystem. I bridge the gap between robust, highly scalable backend architectures and fluid, pixel-perfect user interfaces. Focus areas include optimizing database queries, microservices architecture, and crafting seamless UX/UI designs that convert visitors into users.
+I'm a passionate MERN stack developer with over 2 years of experience building dynamic web applications. I specialize in creating seamless user experiences with responsive designs and robust backend systems.
+
+When I’m not coding, I enjoy exploring new technologies and contributing to open source projects. I believe in continuous learning and staying up to date with industry trends.
 
 - 🔭 **Current Focus:** Advanced full-stack systems engineering with Next.js, TypeScript, and Docker containerization.
 - 💡 **Philosophy:** *"Clean code always looks like it was written by someone who cares."* — Michael Feathers
