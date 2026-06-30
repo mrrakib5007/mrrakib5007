@@ -1,5 +1,5 @@
-# Hi, I'm Mahabub Rahman Rakib 👋
-### Full-Stack MERN & Next.js Developer
+# Hi, I'm Mahabub Rahman Rakib
+### MERN Stack Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrrakib5007&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -105,12 +105,10 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 
 ---
 
-## GitHub Performance & Trophies
+## GitHub Performance & Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrrakib5007&theme=tokyonight&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=mrrakib5007&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -134,7 +132,7 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://mrrakib5007.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="Portfolio" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="Portfolio" width="40" height="40" style="margin: 0 10px;" />
   </a>
   <a href="mailto:mrrakib5007@gmail.com">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="40" height="40" style="margin: 0 10px;" />
