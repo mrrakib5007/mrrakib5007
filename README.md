@@ -1,6 +1,9 @@
-# Hi, I'm Mahabub Rahman Rakib 
+# Hi, I'm Mahabub Rahman Rakib 👋
 ### Full-Stack MERN & Next.js Developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrakib5007&label=Profile views&color=0e75b6&style=flat" alt="mrrakib5007" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mrrakib5007&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Architect;Next.js+%2B+TypeScript+Expert;Building+High-Performance+Web+Apps;Available+For+Remote+Work+%26+Freelancing" alt="Typing SVG" />
@@ -14,32 +17,49 @@ I'm a passionate MERN stack developer with over 2 years of experience building d
 
 When I’m not coding, I enjoy exploring new technologies and contributing to open source projects. I believe in continuous learning and staying up to date with industry trends.
 
--  **Current Focus:** Advanced full-stack systems engineering with Next.js, TypeScript, and Docker containerization.
--  **Philosophy:** *"Clean code always looks like it was written by someone who cares."* - Michael Feathers
--  **Always Innovating:** Integrating automated pipelines, DevOps workflows, and cloud-native solutions to speed up production delivery.
--  **Expertise:** React performance optimization, state management structures, and complex database aggregation workflows.
+- **Current Focus:** Advanced full-stack systems engineering with Next.js, TypeScript, and Docker containerization.
+- **Philosophy:** *"Clean code always looks like it was written by someone who cares."* — Michael Feathers
+- **Always Innovating:** Integrating automated pipelines, DevOps workflows, and cloud-native solutions to speed up production delivery.
+- **Expertise:** React performance optimization, state management structures, and complex database aggregation workflows.
 
 ---
 
-## Skills
+## My Skills & Ecosystem
 
+### Frontend Development
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <br />
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Tools & Platform DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <br />
-  <!-- Tools & DevOps -->
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Cloudinary-34495E?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C8B5?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Adobe Photoshop" />
 </p>
 
 ---
@@ -50,7 +70,7 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
   <tr>
     <!-- Project 1 -->
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ ProCommerce Ecosystem</h3>
+      <h3 align="center">ProCommerce Ecosystem</h3>
       <p align="center">
         <img src="https://i.ibb.co/nqGMWnJ7/imgbb-snap-by-mrrakib5007.png" alt="E-Commerce Ecosystem" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
       </p>
@@ -60,13 +80,13 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
         <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Node.js</code> <code>MongoDB</code>
       </p>
       <p align="center">
-        <a href="https://mrrakib5007.netlify.app/">🔗 Live Demo</a> &nbsp;|&nbsp; 
-        <a href="https://github.com/mrrakib5007">💻 Source Code</a>
+        <a href="https://mrrakib5007.netlify.app/">Live Demo</a> &nbsp;|&nbsp; 
+        <a href="https://github.com/mrrakib5007">Source Code</a>
       </p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
-      <h3 align="center">💬 NexaChat Workspace</h3>
+      <h3 align="center">NexaChat Workspace</h3>
       <p align="center">
         <img src="https://i.ibb.co/nqGMWnJ7/imgbb-snap-by-mrrakib5007.png" alt="Real-Time Chat Workspace" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" />
       </p>
@@ -76,8 +96,8 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
         <code>React.js</code> <code>Tailwind</code> <code>Express.js</code> <code>Socket.io</code> <code>Redis</code>
       </p>
       <p align="center">
-        <a href="https://mrrakib5007.netlify.app/">🔗 Live Demo</a> &nbsp;|&nbsp; 
-        <a href="https://github.com/mrrakib5007">💻 Source Code</a>
+        <a href="https://mrrakib5007.netlify.app/">Live Demo</a> &nbsp;|&nbsp; 
+        <a href="https://github.com/mrrakib5007">Source Code</a>
       </p>
     </td>
   </tr>
@@ -121,4 +141,4 @@ Are you looking for a reliable software engineer to construct a high-converting 
 </p>
 
 ---
-<p align="center">⭐️ If you find value in my open-source codebases, feel free to drop a star on the repositories!</p>
+<p align="center">If you find value in my open-source codebases, feel free to drop a star on the repositories!</p>
