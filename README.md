@@ -44,7 +44,7 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
@@ -85,7 +85,7 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
 
 ---
 
-## 📈 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrrakib5007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rakib's GitHub Stats" height="180px" />
@@ -96,12 +96,12 @@ When I’m not coding, I enjoy exploring new technologies and contributing to op
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrakib5007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
-### 📅 Contribution Heatmap
+### Contribution Heatmap
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mrrakib5007&theme=tokyonight&bg_color=1a1b27&hide_border=true)
 
 ---
 
-## 🤝 Connect & Collaborate
+## Connect & Collaborate
 
 Are you looking for a reliable software engineer to construct a high-converting web application, step in as a remote team player, or talk system architecture? Let's start a conversation!
 
