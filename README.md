@@ -1,5 +1,5 @@
 <!-- Banner Image  -->
-  <img src="https://i.ibb.co.com/S407x26V/banner.png" alt="Banner" width="100%" />
+  <img src="./banner/banner.png" alt="Banner" width="100%" />
   <br />
 
 <!-- Header  -->
