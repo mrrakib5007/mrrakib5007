@@ -5,7 +5,7 @@
 <div align="center">
  <summary><h1 style="display: inline-block">Hi, I'm Mahabub Rahman Rakib</h1></summary>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN%20Stack%20Architect%3BNext.js%20%2B%20TypeScript%20Expert%3BBuilding%20High-Performance%20Web%20Apps%3BAvailable%20For%20Remote%20Work%20%26%20Freelancing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN%20Stack%20Developer;Next.js%20%2B%20TypeScript%20Expert;Building%20High-Performance%20Web%20Apps;Robotics%20and%20Automation%20Learner" alt="Typing SVG" />
 </p>
 </div>
 
