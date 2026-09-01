@@ -14,14 +14,6 @@
 ## About Me
 
 I'm a passionate MERN stack developer with over 2 years of experience building dynamic web applications. I specialize in creating seamless user experiences with responsive designs and robust backend systems.
-
-When I’m not coding, I enjoy exploring new technologies and contributing to open source projects. I believe in continuous learning and staying up to date with industry trends.
-
-- **Current Focus:** Advanced full-stack systems engineering with Next.js, TypeScript, and Docker containerization.
-- **Philosophy:** *"Clean code always looks like it was written by someone who cares."* — Michael Feathers
-- **Always Innovating:** Integrating automated pipelines, DevOps workflows, and cloud-native solutions to speed up production delivery.
-- **Expertise:** React performance optimization, state management structures, and complex database aggregation workflows.
-
 ---
 
 ## My Skills & Ecosystem
