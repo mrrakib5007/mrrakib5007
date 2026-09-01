@@ -1,6 +1,5 @@
 <!-- Banner Image  -->
   <img src="./banner.jpg" alt="Banner" width="100%" />
-  <br />
 
 <!-- Header  -->
 <div align="center">
