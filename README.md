@@ -12,7 +12,7 @@
 <!-- About Me  -->
 ## ABOUT ME
 
-I'm a passionate MERN stack developer with over 1 years of experience building dynamic web applications. I specialize in creating seamless user experiences with responsive designs and robust backend systems.
+I'm a passionate Full Stack Developer working part-time at IT Lancer BD, specializing in building modern, scalable, and responsive web applications using the MERN stack. I enjoy turning ideas into seamless digital experiences through clean frontend interfaces and robust backend systems. Beyond web development, I'm deeply interested in Robotics and Automation and always eager to explore new technologies and innovative solutions.
 
 <br>
 
