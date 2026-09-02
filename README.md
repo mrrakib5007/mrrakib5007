@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer working part-time at IT Lancer BD, special
 <br>
 
 <!-- Social Media -->
-## Let's Connect
+## LET'S CONNECT
 
 <p align="left">
   <a href="mailto:mrrakib5007@gmail.com">
